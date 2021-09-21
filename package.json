@@ -1,0 +1,27 @@
+{
+  "name": "lightning",
+  "version": "1.0.0",
+  "description": "stuff",
+  "main": "app.js",
+  "dependencies": {
+    "nodemon": "^2.0.12",
+    "ts-node": "^10.2.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  },
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chevtastic/Lightning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chevtastic/Lightning/issues"
+  },
+  "homepage": "https://github.com/Chevtastic/Lightning#readme"
+}
